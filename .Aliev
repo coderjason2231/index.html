@@ -1,0 +1,17 @@
+<!-- Name: Adil, Surname: Aliev, Group Number: EIfu-23 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Tags Test</title>
+</head>
+<body>
+    <p>This is a test of HTML tags:</p>
+    <p>
+        <b>Adil</b><br>
+        <i>Aliev</i><br>
+        <u>EIfu-23</u>
+    </p>
+</body>
+</html>
